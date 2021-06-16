@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Eugene10290
-- 👀 I’m interested in backend development and blockchain technology
+- 👋 Hi, I’m @shelderr
+- 👀 I’m interested in PHP backend development and blockchain technologies
 - 🌱 I’m currently learning Etherium smartcontracts 
 
 <!---
